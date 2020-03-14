@@ -123,6 +123,10 @@ ENV/
 env.bak/
 venv.bak/
 
+
+content/homeworks/hw04/notebook/model.json
+content/homeworks/hw04/notebook/cnn_1.h5
+
 # Spyder project settings
 .spyderproject
 .spyproject
