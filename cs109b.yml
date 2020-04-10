@@ -16,6 +16,7 @@ dependencies:
 - gensim
 - holoviews
 - ipytest
+- keras
 - IPython
 - ipywidgets
 - json
